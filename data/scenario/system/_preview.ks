@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/Title1.png"  ]
+[preload  storage="./data/bgimage/傅作义和平解放.jpg"  ]
+[preload  storage="./data/bgimage/CityWall1.jpg"  ]
+[preload  storage="./data/bgimage/新中国成立.jpg"  ]
+[preload  storage="./data/bgimage/march.jpg"  ]
+[return] 

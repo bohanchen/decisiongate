@@ -1,0 +1,2 @@
+Project Description:
+How to preserve history has become a crucial topic today. In China’s modern history, a cultural fault emerged during the Cultural Revolution from 1956 to 1966. Ancient architecture and antiques were demolished and destroyed. Some scholars and scientists were either killed or deported. As a response, this project delivered a creative idea to depict history, especially on forbidden and sensitive contents, in a more compelling and interesting way. The story is focused specifically on Chinese Urban Planning Project in the 1950s.
